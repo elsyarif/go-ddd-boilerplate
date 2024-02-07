@@ -1,0 +1,10 @@
+.idea
+.vscode
+
+logs
+*.tar
+*.gz
+*.zip
+
+.env
+config.yml
